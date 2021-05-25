@@ -7,8 +7,8 @@ const rippleSettings = {
 };
 
 const canvasSettings = {
-  blur: 8,
-  ratio: 1,
+  blur: 2,
+  ratio: 3,
 };
 
 function Coords(x, y) {
